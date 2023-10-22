@@ -63,11 +63,6 @@
 ![Youtube_Studio](https://img.shields.io/badge/-Youtube_Studio-05122A?style=flat&logo=YoutubeStudio)&nbsp;
 ![Audacity](https://img.shields.io/badge/-Audacity-05122A?style=flat&logo=Audacity)&nbsp;
 
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)&nbsp;
-![Parallax](https://img.shields.io/badge/-Parallax-05122A?style=flat&logo=Parallax)&nbsp;
-![PIC](https://img.shields.io/badge/-PIC-05122A?style=flat&logo=PIC)&nbsp;
-![Lego Mindstorms](https://img.shields.io/badge/-Lego_Mindstorms-05122A?style=flat&logo=Lego)&nbsp;
-
 ![Rest API](https://img.shields.io/badge/-Rest_API-05122A?style=flat&logo=Rest)&nbsp;
 ![D-Bus](https://img.shields.io/badge/-D--Bus-05122A?style=flat&logo=D-Bus)&nbsp;
 ![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat&logo=MQTT)&nbsp;
@@ -76,6 +71,13 @@
 
 ![PayPal](https://img.shields.io/badge/-PayPal-05122A?style=flat&logo=PayPal)&nbsp;
 ![SportMonks](https://img.shields.io/badge/-SportMonks-05122A?style=flat&logo=SportMonks)&nbsp;
+
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx)&nbsp;
+
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)&nbsp;
+![Parallax](https://img.shields.io/badge/-Parallax-05122A?style=flat&logo=Parallax)&nbsp;
+![PIC](https://img.shields.io/badge/-PIC-05122A?style=flat&logo=PIC)&nbsp;
+![Lego Mindstorms](https://img.shields.io/badge/-Lego_Mindstorms-05122A?style=flat&logo=Lego)&nbsp;
 
 ![Email Marketing](https://img.shields.io/badge/-Email_Marketing-05122A?style=flat&logo=Hubspot)&nbsp;
 
