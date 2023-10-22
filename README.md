@@ -37,6 +37,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)&nbsp;
+![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=XML)&nbsp;
+![UML](https://img.shields.io/badge/-UML-05122A?style=flat&logo=UML)&nbsp;
 
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=CodeIgniter)&nbsp;
@@ -45,9 +47,6 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
-
-![UML](https://img.shields.io/badge/-UML-05122A?style=flat&logo=UML)&nbsp;
-![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=XML)&nbsp;
 
 ![GTK+](https://img.shields.io/badge/-GTK+-05122A?style=flat&logo=GTK)&nbsp;
 
