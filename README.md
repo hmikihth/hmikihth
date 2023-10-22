@@ -49,6 +49,7 @@ Light colors mean outdated knowledge. Red color means I don't like to work with 
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-880000?style=flat&logo=CodeIgniter)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-CC6666?style=flat&logo=Wordpress)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-444444?style=flat&logo=JQuery)&nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp;
@@ -85,6 +86,9 @@ Light colors mean outdated knowledge. Red color means I don't like to work with 
 
 ![Youtube_Studio](https://img.shields.io/badge/-Youtube_Studio-444444?style=flat&logo=YoutubeStudio)&nbsp;
 ![Audacity](https://img.shields.io/badge/-Audacity-444444?style=flat&logo=Audacity)&nbsp;
+
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-66CC66?style=flat)&nbsp;
+![Robotics](https://img.shields.io/badge/-Robotics-66CC66?style=flat)&nbsp;
 
 ![Email Marketing](https://img.shields.io/badge/-Email_Marketing-444444?style=flat&logo=Hubspot)&nbsp;
 
