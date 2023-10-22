@@ -49,15 +49,17 @@
 ![UML](https://img.shields.io/badge/-UML-05122A?style=flat&logo=UML)&nbsp;
 ![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=XML)&nbsp;
 
+![GTK+](https://img.shields.io/badge/-GTK+-05122A?style=flat&logo=GTK)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
 ![SVN](https://img.shields.io/badge/-SVN-05122A?style=flat&logo=SVN)&nbsp;
 
+![Kanboard](https://img.shields.io/badge/-Kanboard-05122A?style=flat&logo=Kanboard)&nbsp;
+
 ![RPM_Packaging](https://img.shields.io/badge/-RPM_Packaging-05122A?style=flat&logo=RPM)&nbsp;
 ![PyPi_Packaging](https://img.shields.io/badge/-PyPi_Packaging-05122A?style=flat&logo=PyPi)&nbsp;
-
-![GTK+](https://img.shields.io/badge/-GTK+-05122A?style=flat&logo=GTK)&nbsp;
 
 ![Youtube_Studio](https://img.shields.io/badge/-Youtube_Studio-05122A?style=flat&logo=YoutubeStudio)&nbsp;
 ![Audacity](https://img.shields.io/badge/-Audacity-05122A?style=flat&logo=Audacity)&nbsp;
@@ -71,6 +73,10 @@
 ![D-Bus](https://img.shields.io/badge/-D--Bus-05122A?style=flat&logo=D-Bus)&nbsp;
 ![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat&logo=MQTT)&nbsp;
 ![RSS](https://img.shields.io/badge/-RSS-05122A?style=flat&logo=RSS)&nbsp;
+![AT Commands](https://img.shields.io/badge/-AT_Commands-05122A?style=flat&logo=AT_Commands)&nbsp;
+
+![PayPal](https://img.shields.io/badge/-PayPal-05122A?style=flat&logo=PayPal)&nbsp;
+![SportMonks](https://img.shields.io/badge/-SportMonks-05122A?style=flat&logo=SportMonks)&nbsp;
 
 ![Email Marketing](https://img.shields.io/badge/-Email_Marketing-05122A?style=flat&logo=Hubspot)&nbsp;
 
