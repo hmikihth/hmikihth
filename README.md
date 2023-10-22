@@ -5,6 +5,7 @@
 | <img width=300/>|<img width=800/>|
 | :-----: | :-: |
 | Email | **<hmiki@blackpantheros.eu>** |
+| LinkedIn | Unfortunately I don't have. Read about the reason here: https://github.com/hmikihth/MyLinkedIn |
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
