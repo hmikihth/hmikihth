@@ -45,6 +45,8 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Wordpress)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
+![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=Pytest)&nbsp;
+
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
 
@@ -95,10 +97,10 @@
 
 <a href="https://www.duolingo.com/profile/HMikiHTH?via=share_profile">![Duolingo](https://img.shields.io/badge/-My_Duolingo_Profile_(370_000_XP)-05122A?style=flat&logo=Duolingo)</a>
 
-* <img src="https://www.worldometers.info/img/flags/small/tn_uk-flag.gif" alt="drawing" height="15" width="30" /> English (Fluent) 
+* <img src="https://www.worldometers.info/img/flags/small/tn_uk-flag.gif" alt="drawing" height="15" width="30" /> English (C1) 
 * <img src="https://www.worldometers.info/img/flags/small/tn_hu-flag.gif" alt="drawing" height="15" width="30" /> Hungarian (Native)
-* <img src="https://www.worldometers.info/img/flags/small/tn_sp-flag.gif" alt="drawing" height="15" width="30" /> Spanish (Intermediate)
-* <img src="https://www.worldometers.info/img/flags/small/tn_gm-flag.gif" alt="drawing" height="15" width="30" /> German (Beginner)
+* <img src="https://www.worldometers.info/img/flags/small/tn_sp-flag.gif" alt="drawing" height="15" width="30" /> Spanish (B1)
+* <img src="https://www.worldometers.info/img/flags/small/tn_gm-flag.gif" alt="drawing" height="15" width="30" /> German (A2)
 
 Recently started to learn:
 * <img src="https://www.worldometers.info/img/flags/small/tn_in-flag.gif" alt="drawing" height="15" width="30" /> Hindi
