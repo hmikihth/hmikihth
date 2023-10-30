@@ -104,7 +104,7 @@ Light colors mean outdated knowledge. Red color means I don't like to work with 
 
 # Languages
 
-<a href="https://www.duolingo.com/profile/HMikiHTH?via=share_profile">![Duolingo](https://img.shields.io/badge/-My_Duolingo_Profile_(370_000_XP)-05122A?style=flat&logo=Duolingo)</a>
+<a href="https://www.duolingo.com/profile/HMikiHTH?via=share_profile">![Duolingo](https://img.shields.io/badge/-My_Duolingo_Profile_(380_000_XP)-05122A?style=flat&logo=Duolingo)</a>
 
 * <img src="https://www.worldometers.info/img/flags/small/tn_uk-flag.gif" alt="drawing" height="15" width="30" /> English (C1) 
 * <img src="https://www.worldometers.info/img/flags/small/tn_hu-flag.gif" alt="drawing" height="15" width="30" /> Hungarian (Native)
