@@ -91,6 +91,8 @@ Light colors mean outdated knowledge. Red color means I don't like to work with 
 ![Robotics](https://img.shields.io/badge/-Robotics-66CC66?style=flat)&nbsp;
 
 ![Email Marketing](https://img.shields.io/badge/-Email_Marketing-444444?style=flat&logo=Hubspot)&nbsp;
+![Social Media Marketing](https://img.shields.io/badge/-Social_Media_Marketing-444444?style=flat&logo=Hubspot)&nbsp;
+![SEO](https://img.shields.io/badge/-SEO-444444?style=flat&logo=Hubspot)&nbsp;
 
 </div>
 
