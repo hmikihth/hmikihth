@@ -108,7 +108,7 @@ Light colors mean outdated knowledge. Red color means I don't like to work with 
 
 * <img src="https://www.worldometers.info/img/flags/small/tn_uk-flag.gif" alt="drawing" height="15" width="30" /> English (C1) 
 * <img src="https://www.worldometers.info/img/flags/small/tn_hu-flag.gif" alt="drawing" height="15" width="30" /> Hungarian (Native)
-* <img src="https://www.worldometers.info/img/flags/small/tn_sp-flag.gif" alt="drawing" height="15" width="30" /> Spanish (B1)
+* <img src="https://www.worldometers.info/img/flags/small/tn_sp-flag.gif" alt="drawing" height="15" width="30" /> Spanish (A2)
 * <img src="https://www.worldometers.info/img/flags/small/tn_gm-flag.gif" alt="drawing" height="15" width="30" /> German (A2)
 
 Recently started to learn:
