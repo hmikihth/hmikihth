@@ -5,7 +5,7 @@
 | <img width=300/>|<img width=800/>|
 | :-----: | :-: |
 | Email | **<hmiki@blackpantheros.eu>** |
-| LinkedIn | Unfortunately I don't have. Read about the reason here: https://github.com/hmikihth/MyLinkedIn |
+| LinkedIn | **<https://www.linkedin.com/in/miklos-horvath-hth>** |
 
 # Preferred and up-to-date technologies
 
