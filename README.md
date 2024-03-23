@@ -1,11 +1,13 @@
-# Python developer 
+# Full-stack Software Developer & Digital Marketing Manager
 <p align="right"><img src="https://komarev.com/ghpvc/?username=hmikihth&label=Profile%20Views&color=0e75b6&style=flat""/></p>
 <div align="center">
 
 | <img width=300/>|<img width=800/>|
 | :-----: | :-: |
 | Email | **<hmiki@blackpantheros.eu>** |
-| LinkedIn | **<https://www.linkedin.com/in/miklos-horvath-hth>** |
+| LinkedIn* | **<https://www.linkedin.com/in/miklos-horvath-hth>** |
+
+<sub>* I am happy to accept any connection request on LinkedIn for future job and business opportunities.</sub> 
 
 # Preferred and up-to-date technologies
 
