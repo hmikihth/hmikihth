@@ -25,7 +25,7 @@ Green color means I like to work with that
 
 ![Linux](https://img.shields.io/badge/-Linux-004400?style=flat&logo=Linux)&nbsp;
 
-![Google_Bard](https://img.shields.io/badge/-Google_Bard-004400?style=flat&logo=GoogleBard)&nbsp;
+![Gemini](https://img.shields.io/badge/-Gemini-004400?style=flat&logo=Gemini)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp;
 
