@@ -1,4 +1,4 @@
-# I was Full-stack Software Developer
+# I was a Full-stack Software Developer before AI boom
 <p align="right"><img src="https://komarev.com/ghpvc/?username=hmikihth&label=Profile%20Views&color=0e75b6&style=flat""/></p>
 <div align="center">
 
