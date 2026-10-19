@@ -1,4 +1,4 @@
-# Full-stack Software Developer & Digital Marketing Manager
+# I was Full-stack Software Developer
 <p align="right"><img src="https://komarev.com/ghpvc/?username=hmikihth&label=Profile%20Views&color=0e75b6&style=flat""/></p>
 <div align="center">
 
@@ -7,11 +7,11 @@
 | Email | **<hmiki@blackpantheros.eu>** |
 | LinkedIn* | **<https://www.linkedin.com/in/miklos-horvath-hth>** |
 
-<sub>* I am happy to accept any connection request on LinkedIn for future job and business opportunities.</sub> 
+<sub>* I am happy to accept any connection request on LinkedIn. But please do not disturb me with software development related things. I don't code anymore, please use AI tools for that.</sub> 
 
-# Preferred and up-to-date technologies
+# Preferred technologies
 
-Green color means I like to work with that
+Green color means I liked to work with that
 
 ![Python](https://img.shields.io/badge/-Python-004400?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)&nbsp;
@@ -31,7 +31,7 @@ Green color means I like to work with that
 
 
 # Other experiences
-Light colors mean outdated knowledge. Red color means I don't like to work with that.
+Red color means I don't like to work with that.
 
 ![Java](https://img.shields.io/badge/-Java-CC6666?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
